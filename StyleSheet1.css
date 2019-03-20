@@ -1,0 +1,39 @@
+﻿body {
+    font-family: Helvetica, sans-serif;
+}
+.banner {
+    
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    /* The image used */
+    background-image: url("./pattern.jpeg");
+    
+}
+.brushesban, .framesban, .paintban{
+   
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    text-align: left;
+    
+}
+.brushesban {
+    background-color: mediumspringgreen;
+}
+#bold, #price {
+    font-weight: bold;
+    
+}
+#price{
+    color: blue;
+}
+.framesban {
+   
+    background-color: lightcoral;
+}
+.paintban{
+    background-color: skyblue;
+}
+
